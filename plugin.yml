@@ -1,0 +1,6 @@
+name: BattleRoyale
+main: BattleRoyale\Main
+description: BattleRoyale
+author: Savion
+api: 3.3.0
+version: "1.0.0-BETA"
